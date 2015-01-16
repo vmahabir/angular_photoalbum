@@ -14,20 +14,20 @@ npm install
 
 `If that doesn't work you probably miss some dependencies:`
 
-sudo apt-get ruby-full rubygems
-sudo gem install sass
-sudo gem install compass
-npm install -g bower
-npm install -g grunt-cli
+sudo apt-get ruby-full rubygems  
+sudo gem install sass  
+sudo gem install compass  
+npm install -g bower  
+npm install -g grunt-cli  
 
 # Installing and using the Yeoman generator
 
-npm install -g yo
-npm install -g generator-angular
+npm install -g yo  
+npm install -g generator-angular  
 
-yo angular:controller testCtrl
-yo angular:route testroute
-yo angular:view testView
-etc...
-
+yo angular:controller testCtrl  
+yo angular:route testroute  
+yo angular:view testView  
+etc...  
+  
 See the [GitHub page](https://github.com/yeoman/generator-angular)
