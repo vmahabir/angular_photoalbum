@@ -1,4 +1,4 @@
-#### This project has been cancelled
+#### This project has been set on the backburner for now.
 
 # angular_photoalbum
 Angular Photoalbum
